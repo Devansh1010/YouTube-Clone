@@ -1,0 +1,17 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "YouTube clone app mostly focous on the backend",
+  "keywords": [
+    "Youtube",
+    "javaScript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Devansh Prajapati",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
